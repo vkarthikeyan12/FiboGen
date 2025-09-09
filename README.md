@@ -110,4 +110,4 @@ This project is for **educational purposes**. You may freely use, modify, and sh
 
 ## Screenshot
 
-![screenshot](Screenshot.jpg)
+![screenshot](Screenshot.png)
